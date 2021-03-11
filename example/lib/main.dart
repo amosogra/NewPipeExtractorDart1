@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:newpipeextractor_dart/extractors/playlist.dart';
-import 'package:newpipeextractor_dart/extractors/search.dart';
-import 'package:newpipeextractor_dart/extractors/videos.dart';
 import 'package:newpipeextractor_dart/models/playlist.dart';
 import 'package:newpipeextractor_dart/models/search.dart';
 
-import 'package:newpipeextractor_dart/newpipeextractor_dart.dart';
 
 void main() {
   runApp(MyApp());
